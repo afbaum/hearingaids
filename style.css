@@ -1,0 +1,25 @@
+/*Navbar decoration*/
+.navbar {
+	text: white !important;
+}
+
+.bg-light {
+  background: #7395AE !important;
+}
+
+.jumbotron {
+  background: light-grey !important;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+}
+
+.if {
+  color: red;
+}
+
+.footer {
+	  background: #7395AE !important;
+}
