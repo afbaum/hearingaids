@@ -16,8 +16,8 @@
   height: 15vw;
 }
 
-.if {
-  color: red;
+ul {
+	list-style-type: none
 }
 
 .footer {
